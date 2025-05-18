@@ -1,0 +1,5 @@
+C:\Users\janha\Desktop\BackupPRO\RELEASE_V\BackupPRO.exe
+C:\Users\janha\Desktop\BackupPRO\RELEASE_V\BackupPRO.dll
+C:\Users\janha\Desktop\BackupPRO\RELEASE_V\BackupPRO.deps.json
+C:\Users\janha\Desktop\BackupPRO\RELEASE_V\BackupPRO.runtimeconfig.json
+C:\Users\janha\Desktop\BackupPRO\RELEASE_V\BackupPRO.pdb
